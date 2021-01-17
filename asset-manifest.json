@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SeasonTracer/static/css/main.58d1bae4.chunk.css",
+    "main.js": "/SeasonTracer/static/js/main.87a4d607.chunk.js",
+    "main.js.map": "/SeasonTracer/static/js/main.87a4d607.chunk.js.map",
+    "runtime-main.js": "/SeasonTracer/static/js/runtime-main.f2db75eb.js",
+    "runtime-main.js.map": "/SeasonTracer/static/js/runtime-main.f2db75eb.js.map",
+    "static/js/2.ec0161a8.chunk.js": "/SeasonTracer/static/js/2.ec0161a8.chunk.js",
+    "static/js/2.ec0161a8.chunk.js.map": "/SeasonTracer/static/js/2.ec0161a8.chunk.js.map",
+    "index.html": "/SeasonTracer/index.html",
+    "static/css/main.58d1bae4.chunk.css.map": "/SeasonTracer/static/css/main.58d1bae4.chunk.css.map",
+    "static/js/2.ec0161a8.chunk.js.LICENSE.txt": "/SeasonTracer/static/js/2.ec0161a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2db75eb.js",
+    "static/js/2.ec0161a8.chunk.js",
+    "static/css/main.58d1bae4.chunk.css",
+    "static/js/main.87a4d607.chunk.js"
+  ]
+}
