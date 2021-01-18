@@ -2,9 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Demo
+## Demo
 
-(https://codingninja11.github.io/SeasonTracer/).
+https://codingninja11.github.io/SeasonTracer/
 
 ## Available Scripts
 
